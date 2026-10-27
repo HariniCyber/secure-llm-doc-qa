@@ -62,7 +62,6 @@ Each attack is stored as a test case with the input, the expected safe behavior 
 | A3 | Hidden instruction inside a document | to be added | to be added |
 | A4 | Request for data outside the documents | to be added | to be added |
 
-Full details go in [`SECURITY_FINDINGS.md`](SECURITY_FINDINGS.md).
 
 ## 🛠️ Tech stack
 
